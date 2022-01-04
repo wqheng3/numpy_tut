@@ -1,2 +1,2 @@
 # numpy_tut
-numpy tutorial
+this is a numpy tutorial
